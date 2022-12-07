@@ -1,1 +1,3 @@
-Adding a readme file to test etag/last modified
+Adding a readme file to test etag/last modified.
+
+Updating readme.
